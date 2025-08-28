@@ -1,0 +1,8 @@
+parameters:
+    level: 8
+    paths:
+        - classes/
+        - factories/
+        - interfaces/
+    excludePaths:
+        - vendor/
